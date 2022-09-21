@@ -1,0 +1,8 @@
+h1, h2, h3, p, a {
+  font-family: "Comic Sans MS", "Comic Sans";
+}
+
+html, body, #app {
+  height: 100%;
+  margin: 0;
+}
